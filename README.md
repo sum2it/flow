@@ -1,5 +1,5 @@
 # Proof of concept + Proof of speed
 
 ## To run
-cd flow
+cd flow\
 npm start
