@@ -56,7 +56,7 @@ const ResponsiveAppBar = () => {
                 component="div"
                 sx={{ mr: 2, mb: 1, display: { xs: 'none', md: 'flex' } }}
             >
-                Omnea
+                Startup
             </Typography>
 
             <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>
